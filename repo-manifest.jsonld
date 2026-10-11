@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiosparql/commit/f90ed49df5c7ca624fcb420292ab4e5ffc860227",
       "git:hexsha": "f90ed49df5c7ca624fcb420292ab4e5ffc860227",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiosparql/commit/0aa52cb2ec36c7a77aec4b12d1e0b2ad24cc5d38",
