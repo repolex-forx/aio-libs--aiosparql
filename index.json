@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiosparql",
+  "versions": [
+    {
+      "commit": "f90ed49df5c7ca624fcb420292ab4e5ffc860227",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:48:37.755988+00:00"
+    }
+  ]
+}
